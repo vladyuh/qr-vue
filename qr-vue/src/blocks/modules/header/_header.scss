@@ -1,0 +1,21 @@
+header {
+    width: 100%;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    .container {
+        max-width: 100% !important;
+        padding: 0 20px !important;
+    }
+
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    height: 56px;
+}
